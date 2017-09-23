@@ -1,0 +1,10 @@
+206,Santiago,Antofagasta,1,julio,168
+207,Concepcion,Santiago,1,julio,153
+202,Concepción,Temuco,2,abril,120
+108,Isla de Pascua,Santiago,16,marzo,432
+207,Concepción,Santiago,3,abril,140
+206,Santiago,Antofagasta,1,febrero,160
+105,Concepción,Santiago,3,mayo,132
+200,Antofagasta,Iquique,7,octubre,135
+104,Temuco,La Serena,8,enero,232
+101,Antofagasta,Concepción,13,diciembre,353
